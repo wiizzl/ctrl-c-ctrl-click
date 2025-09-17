@@ -14,11 +14,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3661142-9453-4e0d-b3d8-14918fcc1bd3" name="Changes" comment="" />
+    <list default="true" id="d3661142-9453-4e0d-b3d8-14918fcc1bd3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CtrlCCtrlClick/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CtrlCCtrlClick/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtrlCCtrlClick/CtrlCCtrlClick.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CtrlCCtrlClick/CtrlCCtrlClick.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -29,6 +35,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="32owb3rbT6xKAc2xQm69VD41xyI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +47,8 @@
     &quot;Android.CtrlCCtrlClick.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -85,7 +96,7 @@
       <workItem from="1756663169634" duration="19000" />
       <workItem from="1758099089581" duration="209000" />
       <workItem from="1758100303426" duration="2079000" />
-      <workItem from="1758102459321" duration="372000" />
+      <workItem from="1758102459321" duration="6387000" />
     </task>
     <servers />
   </component>

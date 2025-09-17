@@ -4,11 +4,51 @@
         <name>CtrlCCtrlClick</name>
     </assembly>
     <members>
+        <member name="T:CtrlCCtrlClick.ViewModels.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CtrlCCtrlClick.ViewModels.MainViewModel.Name">
+            <inheritdoc cref="F:CtrlCCtrlClick.ViewModels.MainViewModel._name"/>
+        </member>
+        <member name="P:CtrlCCtrlClick.ViewModels.MainViewModel.Age">
+            <inheritdoc cref="F:CtrlCCtrlClick.ViewModels.MainViewModel._age"/>
+        </member>
+        <member name="F:CtrlCCtrlClick.ViewModels.MainViewModel.incrementAgeCommand">
+            <summary>The backing field for <see cref="P:CtrlCCtrlClick.ViewModels.MainViewModel.IncrementAgeCommand"/>.</summary>
+        </member>
+        <member name="P:CtrlCCtrlClick.ViewModels.MainViewModel.IncrementAgeCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:CtrlCCtrlClick.ViewModels.MainViewModel.IncrementAge"/>.</summary>
+        </member>
         <member name="T:CtrlCCtrlClick.Resource">
             <summary>
             Android Resource Designer class.
             Exposes the Android Resource designer assembly into the project Namespace.
             </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Age">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Age" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Age">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Age" generated properties.</summary>
         </member>
     </members>
 </doc>

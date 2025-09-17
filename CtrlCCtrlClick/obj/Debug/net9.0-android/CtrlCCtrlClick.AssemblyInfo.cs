@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CtrlCCtrlClick")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bbef803be7c5d5ef7d7176bb4ecac7d7b9ea21b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CtrlCCtrlClick")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CtrlCCtrlClick")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
